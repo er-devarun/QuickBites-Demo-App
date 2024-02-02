@@ -53,9 +53,11 @@ Visit http://localhost:5173 in your web browser to explore QuickBites.
 - Redux Toolkit
 - React Redux
 
-## Screenshots
+## Screenshots/GIFs
 ![home page](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/3fe6190e-1ed1-4dd6-91fe-03bb1ace060d)
 ![footer](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/f39b361b-5923-4b6e-85df-4db845b72bb0)
 ![cart box](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/8d3aa064-9ab1-4e1e-ba10-f1d698acb3f0)
 ![pop-up on item addition](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/5120dfea-5389-405a-8a8b-2019f96b255d)
 ![pop-up on item removal](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/91d785d2-50a9-4641-93ee-297e4ddc1953)
+https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/e3fd5a60-0e11-4e7a-91ed-c79e5a7cce5e
+
