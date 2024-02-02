@@ -26,31 +26,31 @@ Check out the live demo of QuickBites at
 ## Installation
 To run QuickBites locally, follow these steps:
 
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application.git
 ```
-# Navigate to the project directory
+## Navigate to the project directory
 
 ```bash
 cd QuickBites-Online-Food-Order-Demo-Application
 ```
 
-# Install dependencies
+## Install dependencies
 ```bash
 npm install
 ```
 
-# Usage
+## Usage
 Start the application locally with the following command:
 ```bash
 npm run dev
 ```
 Visit http://localhost:5173 in your web browser to explore QuickBites.
 
-# Technologies Used
+## Technologies Used
 - React.js + vite
 - Redux Toolkit
 - React Redux
 
-# Screenshots
+## Screenshots
