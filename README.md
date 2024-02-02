@@ -1,4 +1,4 @@
-# QuickBites - Online Food Order Demo Application (Front End)
+# QuickBites - Online Food Order Demo Application
 
 QuickBites is a demo application for online food ordering built with React.js and Redux Toolkit. It provides a seamless user experience with features like item filtering, responsive design, cart management, and more.
 
