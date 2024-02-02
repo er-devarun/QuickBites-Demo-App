@@ -41,7 +41,7 @@ cd QuickBites-Online-Food-Order-Demo-Application
 npm install
 ```
 
-Usage
+# Usage
 Start the application locally with the following command:
 ```bash
 npm run dev
