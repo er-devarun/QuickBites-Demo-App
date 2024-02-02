@@ -9,8 +9,6 @@ QuickBites is a demo application for online food ordering built with React.js an
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
