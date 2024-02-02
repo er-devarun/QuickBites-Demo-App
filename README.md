@@ -49,8 +49,8 @@ npm run dev
 Visit http://localhost:5173 in your web browser to explore QuickBites.
 
 # Technologies Used
-React.js + vite
-Redux Toolkit
-React Redux
+- React.js + vite
+- Redux Toolkit
+- React Redux
 
 # Screenshots
