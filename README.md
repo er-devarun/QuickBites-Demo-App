@@ -21,7 +21,7 @@ QuickBites is a demo application for online food ordering built with React.js an
 - **React Router:** Used React Router for displaying multiple views and handling 404 errors.
 
 ## Demo
-Check out the live demo of QuickBites at 
+Check out the live demo of QuickBites at https://quick-bites-online-food-order-demo-application.vercel.app/
 
 ## Installation
 To run QuickBites locally, follow these steps:
