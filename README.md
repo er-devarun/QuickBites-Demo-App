@@ -54,8 +54,9 @@ Visit http://localhost:5173 in your web browser to explore QuickBites.
 - React Redux
 
 ## Screenshots
-![home page](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/43bb2f7f-3fcd-4c41-bc18-a7264616d608)
-![footer](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/44209695-2a76-4297-90f1-a69ad975ea6f)
-![cart box](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/600094c2-aa70-454f-b536-4b0318adfc64)
-![pop-up on item addition](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/7a589fa5-50c8-4912-9d0b-070e7cfdc55f)
-![pop-up on item removal](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/ddb80560-683d-4756-b34a-760270b67dc0)
+![home page](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/81873bb0-54a3-4039-b135-6e324351e2e5)
+![footer](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/7594508a-c441-4ca0-b807-b9580e720fc1)
+![cart box](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/d016b1cc-fd32-4cde-a0f0-2479c41ec9ff)
+![pop-up on item addition](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/32f9d47d-f9ab-4176-8349-0f22da968273)
+![pop-up on item removal](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/659de547-72f6-4405-b6a7-47986a1cb3ac)
+![order confirmation](https://github.com/er-devarun/QuickBites-Online-Food-Order-Demo-Application/assets/137439924/06b45268-b346-4831-afcd-1b1586941f71)
