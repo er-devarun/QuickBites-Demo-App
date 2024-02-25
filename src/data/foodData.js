@@ -1,7 +1,7 @@
 const foodData = [
   {
     id: 1,
-    img: "/images/1.png",
+    img: "/images/1.webp",
     name: "Onion Pizza",
     price: 150,
     desc: "A delicious pizza topped with fresh onions for a delightful flavor combination. This pizza is perfect for onion lovers and offers a unique twist on the classic pizza experience. Enjoy the perfect blend of cheesy goodness and the sharp taste of onions in every bite. Whether you're sharing with friends or enjoying it all to yourself, this Onion Pizza is sure to satisfy your pizza cravings.",
@@ -10,7 +10,7 @@ const foodData = [
   },
   {
     id: 2,
-    img: "/images/2.png",
+    img: "/images/2.webp",
     name: "Margherita Pizza",
     price: 130,
     desc: "A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. Simple yet bursting with flavors, this Margherita Pizza is a timeless favorite that captures the essence of Italian cuisine.",
@@ -19,7 +19,7 @@ const foodData = [
   },
   {
     id: 3,
-    img: "/images/3.png",
+    img: "/images/3.webp",
     name: "Pepperoni Pizza",
     price: 160,
     desc: "Indulge in the savory delight of this Pepperoni Pizza, loaded with slices of spicy pepperoni, melted cheese, and a tangy tomato sauce. A popular choice that's perfect for satisfying your pizza cravings.",
@@ -28,7 +28,7 @@ const foodData = [
   },
   {
     id: 4,
-    img: "/images/4.png",
+    img: "/images/4.webp",
     name: "Mushroom and Spinach Pizza",
     price: 140,
     desc: "Experience the earthy flavors of mushrooms combined with the freshness of spinach on this delightful pizza. Topped with a blend of cheeses, this Mushroom and Spinach Pizza offers a balanced and satisfying taste.",
@@ -37,7 +37,7 @@ const foodData = [
   },
   {
     id: 5,
-    img: "/images/5.png",
+    img: "/images/5.webp",
     name: "BBQ Chicken Pizza",
     price: 170,
     desc: "Savor the smoky goodness of this BBQ Chicken Pizza, featuring tender pieces of chicken marinated in barbecue sauce, red onions, and a medley of cheeses. A fusion of flavors that's sure to delight your taste buds.",
@@ -46,7 +46,7 @@ const foodData = [
   },
   {
     id: 6,
-    img: "/images/6.png",
+    img: "/images/6.webp",
     name: "Classic Pancakes",
     price: 80,
     desc: "Start your day with a stack of fluffy pancakes served with maple syrup and a dollop of butter. A timeless breakfast favorite that's sure to satisfy your morning cravings.",
@@ -55,7 +55,7 @@ const foodData = [
   },
   {
     id: 7,
-    img: "/images/7.png",
+    img: "/images/7.webp",
     name: "Egg and Bacon Croissant",
     price: 110,
     desc: "Indulge in a buttery croissant filled with scrambled eggs, crispy bacon, and melted cheese. A savory and satisfying breakfast option that's perfect for on-the-go mornings.",
@@ -64,7 +64,7 @@ const foodData = [
   },
   {
     id: 8,
-    img: "/images/8.png",
+    img: "/images/8.webp",
     name: "Greek Yogurt Parfait",
     price: 95,
     desc: "Enjoy a healthy and refreshing breakfast with layers of creamy Greek yogurt, fresh berries, honey, and granola. A balanced option that provides a burst of flavors and energy.",
@@ -73,7 +73,7 @@ const foodData = [
   },
   {
     id: 9,
-    img: "/images/9.png",
+    img: "/images/9.webp",
     name: "Avocado Toast",
     price: 120,
     desc: "Savor the creaminess of mashed avocado on toasted whole grain bread, topped with a sprinkle of sea salt and red pepper flakes. A trendy and nutritious breakfast choice.",
@@ -82,7 +82,7 @@ const foodData = [
   },
   {
     id: 10,
-    img: "/images/10.png",
+    img: "/images/10.webp",
     name: "Fruit and Nut Oatmeal",
     price: 85,
     desc: "Warm up with a bowl of hearty oatmeal packed with mixed fruits, nuts, and a drizzle of honey. A wholesome breakfast that provides a satisfying start to your day.",
@@ -91,7 +91,7 @@ const foodData = [
   },
   {
     id: 11,
-    img: "/images/11.png",
+    img: "/images/11.webp",
     name: "Grilled Salmon",
     price: 190,
     desc: "Delight in a perfectly grilled salmon fillet seasoned with herbs and served with a side of roasted vegetables. A healthy and flavorful dinner option that's rich in omega-3 fatty acids.",
@@ -100,7 +100,7 @@ const foodData = [
   },
   {
     id: 12,
-    img: "/images/12.png",
+    img: "/images/12.webp",
     name: "Chicken Alfredo Pasta",
     price: 160,
     desc: "Indulge in creamy fettuccine Alfredo pasta with tender pieces of grilled chicken. This comforting dinner dish is a blend of pasta, rich Alfredo sauce, and savory chicken.",
@@ -109,7 +109,7 @@ const foodData = [
   },
   {
     id: 13,
-    img: "/images/13.png",
+    img: "/images/13.webp",
     name: "Vegetable Stir-Fry",
     price: 130,
     desc: "Enjoy a medley of colorful vegetables stir-fried in a flavorful sauce, served over steamed rice. A light and nutritious dinner that's both satisfying and wholesome.",
@@ -118,7 +118,7 @@ const foodData = [
   },
   {
     id: 14,
-    img: "/images/14.png",
+    img: "/images/14.webp",
     name: "Grilled Chicken Burrito Bowl",
     price: 160,
     desc: "Savor the flavors of a delicious burrito bowl with tender grilled chicken, black beans, rice, sautéed peppers and onions, shredded cheese, and a drizzle of zesty cilantro-lime dressing. A hearty and satisfying chicken dinner option.",
@@ -127,7 +127,7 @@ const foodData = [
   },
   {
     id: 15,
-    img: "/images/15.png",
+    img: "/images/15.webp",
     name: "Mushroom Risotto",
     price: 175,
     desc: "Indulge in creamy and flavorful mushroom risotto, made with Arborio rice, sautéed mushrooms, and a touch of Parmesan cheese. A comforting and sophisticated dinner choice.",
@@ -136,7 +136,7 @@ const foodData = [
   },
   {
     id: 16,
-    img: "/images/16.png",
+    img: "/images/16.webp",
     name: "Cheese and Crackers Platter",
     price: 120,
     desc: "Enjoy a variety of artisan cheeses, paired with an assortment of crispy crackers and complemented by fresh fruits and nuts. A delightful snack option for sharing or indulging in on your own.",
@@ -145,7 +145,7 @@ const foodData = [
   },
   {
     id: 17,
-    img: "/images/17.png",
+    img: "/images/17.webp",
     name: "Crispy Chicken Wings",
     price: 130,
     desc: "Savor the satisfying crunch of crispy chicken wings seasoned to perfection. Choose your favorite sauce, from tangy BBQ to spicy buffalo, for a flavorful snacking experience.",
@@ -154,7 +154,7 @@ const foodData = [
   },
   {
     id: 18,
-    img: "/images/18.png",
+    img: "/images/18.webp",
     name: "Paneer Tikka Skewers",
     price: 130,
     desc: "Enjoy succulent pieces of marinated paneer (Indian cottage cheese) skewered and grilled to perfection. Served with mint chutney, these paneer tikka skewers offer a flavorful and aromatic Indian snack experience.",
@@ -163,7 +163,7 @@ const foodData = [
   },
   {
     id: 19,
-    img: "/images/19.png",
+    img: "/images/19.webp",
     name: "Hummus and Veggie Platter",
     price: 90,
     desc: "Relish the smooth and flavorful hummus accompanied by a variety of fresh vegetable sticks and pita bread. A nutritious and satisfying option for a light and refreshing snack.",
@@ -172,7 +172,7 @@ const foodData = [
   },
   {
     id: 20,
-    img: "/images/20.png",
+    img: "/images/20.webp",
     name: "Fruit Skewers",
     price: 70,
     desc: "Indulge in a colorful assortment of fruit skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",
