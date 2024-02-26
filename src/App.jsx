@@ -1,4 +1,4 @@
-import { lazy } from 'react';
+import { Suspense, lazy } from 'react';
 import ProtectedRoute from './components/ProtectedRoute';
 const Error = lazy(() => import('./pages/Error'));
 const Home =  lazy(() => import('./pages/Home'));
@@ -10,11 +10,13 @@ function App() {
   return (
     <>
     <Router>
-      <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/success' element={<ProtectedRoute element={<Success/>}/>}/> 
-        <Route path='/*' element={<Error/>}/> 
-      </Routes>
+      <Suspense fallback={<p>Loading...</p>}>
+        <Routes>
+          <Route path='/' element={<Home/>}/>
+          <Route path='/success' element={<ProtectedRoute element={<Success/>}/>}/> 
+          <Route path='/*' element={<Error/>}/> 
+        </Routes>
+      </Suspense>
     </Router>
     </>
   )

@@ -15,7 +15,7 @@ const CartItemCard = ({item}) => {
 
     return(
         <div className="cart-item-card">
-            <img className="cart-item-img" src={item.img} alt={item.name} />
+            <img loading="lazy" className="cart-item-img" src={item.img} alt={item.name} />
 
             <div className="cart-item-info-container">
                 <div className="cart-item-info">

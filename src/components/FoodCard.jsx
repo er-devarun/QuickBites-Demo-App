@@ -19,7 +19,7 @@ function FoodCard({item, hotToastSuccess, hotToastRemove}){
 
     return(
         <div className="food-card">
-            <img className="food-img" src={item.img} alt={item.name} />
+            <img loading="lazy" className="food-img" src={item.img} alt={item.name} />
             <div className="food-info">
                 <p>{item.name}</p>
                 <span>₹ {item.price}</span>
