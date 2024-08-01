@@ -10,6 +10,11 @@ body {
     background-color: #F4F4F4;
 }
 
+main{
+    max-width: 1583px;
+    margin-inline: auto;
+}
+
 /* Navbar starts */
 
 .nav-bar{

@@ -17,13 +17,13 @@ function Home(){
     }, []);
 
     return(
-        <>
+        <main>
             <Navbar/>
             <CategoryMenu/>
             <FoodItemContainer/>
             <CartBox/>
             <Footer/>
-        </>
+        </main>
     );
 }
 

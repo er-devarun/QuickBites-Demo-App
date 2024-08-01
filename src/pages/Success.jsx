@@ -23,12 +23,14 @@ function Success(){
     }, []);
 
     return(
-        <div className="order-success-container">
-            { loading ? <PropagateLoader color="#22c55e" /> : <>
-                <h2 className="order-success-heading">Order Successful!</h2>
-                <p>Your order has been placed successfully</p>
-            </> }
-        </div>
+        <main>
+            <div className="order-success-container">
+                { loading ? <PropagateLoader color="#22c55e" /> : <>
+                    <h2 className="order-success-heading">Order Successful!</h2>
+                    <p>Your order has been placed successfully</p>
+                </> }
+            </div>
+        </main>
     );
 }
 
